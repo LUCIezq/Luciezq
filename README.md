@@ -7,7 +7,6 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Web Development`.
 - :nerd_face: Always `learning new things`.
-- 🌱 I’m currently learning `React`
 
 ## 🛠️ Skills
 ### Programming languages
