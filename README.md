@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Luci</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
-<p >Estudiante de Desarrollo Web Full Stack en la Universidad Nacional de La Matanza. Apasionado por la programación y autodidacta en conceptos avanzados de front-end y back-end. Con muchas ganas de aportar en proyectos reales y crecer como desarrollador.</p>
+<p >Currently studying Full Stack Web Development at the National University of La Matanza. Passionate about coding and self-taught in advanced front-end and back-end concepts. Eager to contribute to real-world projects and grow as a dedicated developer.</p>
 
 #  Resume 👾
 - :school: I am a `Junior` at [National University of La Matanza](https://www.unlam.edu.ar/).
