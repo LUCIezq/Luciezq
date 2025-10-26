@@ -17,8 +17,11 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 
 ### Framework
+
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
 
 ### Frontend Development
