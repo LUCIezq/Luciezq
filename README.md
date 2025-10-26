@@ -2,12 +2,6 @@
 <h3 align="center">A passionate backend developer from Argentina</h3>
 <p >Currently studying Full Stack Web Development at the National University of La Matanza. Passionate about coding and self-taught in advanced front-end and back-end concepts. Eager to contribute to real-world projects and grow as a dedicated developer.</p>
 
-#  Resume 👾
-- :school: I am a `Junior` at [National University of La Matanza](https://www.unlam.edu.ar/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Web Development`.
-- :nerd_face: Always `learning new things`.
-
 ## 🛠️ Skills
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
