@@ -40,6 +40,8 @@
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=phpstorm)](https://skillicons.dev)
+
 
 ### Base de datos
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
