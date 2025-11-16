@@ -2,11 +2,6 @@
 <h3 align="center">A passionate backend developer from Argentina</h3>
 <p >Currently studying Full Stack Web Development at the National University of La Matanza. Passionate about coding and self-taught in advanced front-end and back-end concepts. Eager to contribute to real-world projects and grow as a dedicated developer.</p>
 
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
 ## 🛠️ Skills
 ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
