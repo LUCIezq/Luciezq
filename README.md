@@ -23,6 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 
 ### Software & Tools
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
